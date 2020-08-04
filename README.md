@@ -1,4 +1,4 @@
-<img alt="GoStack" src="githubAssets/proffyLogo.png" />
+<img alt="GoStack" src="githubAssets/proffyLogo.PNG" />
 
 <p align="center">
 

@@ -30,6 +30,9 @@ This project was developed with the following technologies:
   - [Node.js](https://nodejs.org/en/)
   - TypeScript
   - Express.js
+  - Knex.js
+  - Express.js
+  - SQLite
 - Front-End
   - [React](https://reactjs.org)
   - TypeScript
